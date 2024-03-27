@@ -171,7 +171,7 @@ nav a img{
 .menu_img_container{
     height: 100%;
    width: 100%;
-   overflow: hidden;   
+   /* overflow: hidden;    */
     
 }
 
