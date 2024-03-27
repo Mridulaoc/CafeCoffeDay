@@ -28,6 +28,7 @@ html{
 
 body{
    font-family: 'Gotham-book';
+   overflow: hidden;
 }
 
 .banner_container{
@@ -158,7 +159,7 @@ nav a img{
     display: flex;
     height: 45rem;
     
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .menu_img{
@@ -170,7 +171,7 @@ nav a img{
 .menu_img_container{
     height: 100%;
    width: 100%;
-    overflow: hidden;   
+   overflow: hidden;   
     
 }
 
