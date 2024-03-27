@@ -35,7 +35,7 @@ body{
 .banner_container{
     width: 100%;
     height: auto;
-    /* overflow: hidden; */
+    overflow: hidden;
     display: flex;
     animation: slider 15s infinite linear;
     
