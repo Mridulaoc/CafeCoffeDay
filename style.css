@@ -28,7 +28,7 @@ html{
 
 body{
    font-family: 'Gotham-book';
-   overflow: hidden;
+   overflow-x: hidden;
 }
 
 .banner_container{
